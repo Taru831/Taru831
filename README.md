@@ -1,4 +1,4 @@
-# नमस्ते! 🙏 मैं [आपका नाम] हूँ!
+#hello I'm Tarun Pratap Singh 
 
 ### 👨‍💻 About Me
 - 👋 Hello! I’m a passionate developer specialized in [Your Specialization, e.g., Full Stack Development, Data Science].
